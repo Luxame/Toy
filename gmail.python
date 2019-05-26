@@ -1,0 +1,4 @@
+import webbrowser
+b_browser = "https://mail.google.com"
+webbrowser.get('firefox').open_new_tab(b_browser)
+
